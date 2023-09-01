@@ -1,0 +1,83 @@
+#italic
+{
+    font-weight:bold;
+}
+#cards
+{
+    font-weight:bold;
+    font-size:larger
+}
+#sum-html
+{
+    font-weight:bold;
+    font-size:larger;
+}
+h1{
+    color:goldenrod;
+}
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image:url("https://media.istockphoto.com/id/1092139474/photo/empty-green-casino-poker-table-cloth-with-spotlight.jpg?b=1&s=170667a&w=0&k=20&c=vxjd_9eXbFxziFSEG_tCGogO0ht0tgJ17C2iSx0C21k=");
+    background-size:cover;
+    text-align:center;
+    color:white;
+    font-weight:bold;
+    size:15cm;
+}
+#btn-sg
+{
+    background:goldenrod;
+    border-radius:5px;
+    color:#016f32;
+    border:none;
+    font-weight:bold;
+    margin:0.4rem auto;
+    padding:0.8rem 1.6rem;
+
+}
+#btn-sg:hover{
+    background:rgb(216, 156, 3);
+    transform:scale(1.15);
+}
+#btn-nc
+{
+    background:goldenrod;
+    border-radius:5px;
+    color:#016f32;
+    border:none;
+    font-weight:bold;
+    margin:0.4rem auto;
+    padding:0.8rem 1.6rem;
+    word-spacing: 13px;
+    
+
+}
+#btn-nc:hover
+{
+    background:rgb(216, 156, 3);
+    transform:scale(1.15);
+}
+#rg-btn
+{
+    background:rgb(249, 99, 99);
+    border-radius:5px;
+    font-weight:bold;
+    margin:0.4rem auto;
+    padding:0.8rem 1rem;
+    border:none;
+    color:#016f32;
+}
+#rg-btn:hover
+{
+    background:rgb(253, 76, 76);
+    transform:scale(1.15);
+}
+#alert
+{
+    color:red;
+}
+h3
+{
+    text-decoration:underline;
+    color:goldenrod;
+}

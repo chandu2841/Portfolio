@@ -1,0 +1,153 @@
+.main
+{
+    background:rgb(144, 238, 144);
+    text-align:center;
+    padding-top:2.5mm;
+}
+.search
+{
+    
+
+    margin-left:10cm;
+    font-size:larger;
+    margin-top:5mm;
+}
+.bar
+{
+    display:flex;
+    margin:5mm;
+    justify-content: space-around;
+    background:rgb(203, 249, 203);
+    padding-bottom:2mm;
+    padding:20px;
+}
+.sign
+{
+    margin:-2mm;
+    padding-left:2mm;
+    color:steelblue;
+}
+.anchor-signin
+{
+    text-decoration:none;
+}
+.cart
+{
+    margin:-2mm;
+    padding-left:3mm;
+    color:steelblue;
+}
+.anchor-cart
+{
+    text-decoration:none;
+}
+.deals-head
+{
+    text-align:center;
+}
+.deal-items
+{
+    display:flex;
+    justify-content:space-around;
+}
+.laptop-img
+{
+    padding-right:15mm;
+    padding-left:10mm;
+}
+.watches
+{
+    text-align:center;
+}
+.mobiles
+{
+    text-align:center;
+
+}
+.laptops
+{
+    text-align:center;
+}
+.anchor-mobiles
+{
+    text-decoration:none;
+    color:steelblue;
+}
+.anchor-watches
+{
+    text-decoration:none;
+    color:steelblue;
+}
+.anchor-laptops
+{
+    text-decoration:none;
+    color:steelblue;
+}
+.d-deals
+{
+    background:rgb(194, 224, 234);
+    padding:20px;
+}
+#deals:hover
+{
+    transform:scale(1.15);
+}
+.features:hover
+{
+    transform:scale(1.15);
+}
+.clothing
+{
+    background:lavender;
+    padding:20px;
+}
+.clothing-deals
+{
+    display:flex;
+    justify-content:space-around;
+}
+body{
+    padding:30px;
+    background:rgb(226, 247, 226);
+}
+.head-clothing
+{
+    text-align:center;
+}
+.button
+{
+    background:rgb(92, 143, 244);
+    block-size: 30px;
+    color:white;
+}
+#sign
+{
+    background:dodgerblue;
+    border-radius:5px;
+    
+    color:white;
+    font-weight:bold;
+    border:none;
+}
+#sign:hover{
+    background:rgb(0, 106, 255);
+}
+#btn-sup
+{
+    background:darkturquoise;
+    border:none;
+    font-weight:bold;
+    border-radius:5px;
+    color:white;
+}
+#btn-sup:hover{
+    background:rgb(0, 124, 143);
+}
+img:hover
+{
+    transition:0.3s ease-in-out;
+}
+img
+{
+    transition:0.3s ease-in-out;
+}

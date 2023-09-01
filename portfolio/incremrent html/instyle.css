@@ -1,0 +1,70 @@
+body
+{
+    background:lightblue;
+}
+#btn-inc
+{
+    background:dodgerblue;
+    border-radius:50px;
+    margin:0.5rem auto;
+    padding:1rem 2rem;
+    color:white;
+    font-weight:600;
+}
+#btn-inc:hover
+{
+    background:rgb(6, 130, 254);
+    transform:scale(1.1);
+
+}
+#btn-save
+{
+    background:darkturquoise;
+    border-radius:50px;
+    margin:0.5rem auto;
+    padding:1rem 2rem;
+    color:white;
+    font-weight:600;
+}
+#btn-save:hover
+{
+    background:rgba(0, 206, 209, 0.916);
+    transform:scale(1.15);
+}
+#count-el
+{
+    color:blueviolet;
+    font-size:50px;
+}
+#head1
+{
+    font-weight:800;
+}
+#btn-rst
+{
+    background:rgb(250, 118, 118);
+    border-radius:50px;
+    margin:0.5rem auto;
+    padding:1rem 2rem;
+    color:white;
+    font-weight:600;
+}
+#btn-rst:hover
+{
+    background:rgb(253, 99, 99);
+    transform:scale(1.15);
+
+}
+#btn-dlt
+{
+    background:red;
+    border-radius:50px;
+    margin:0.5rem auto;
+    padding:1rem 2rem;
+    color:white;
+    font-weight:600;
+}
+#btn-dlt:hover
+{   
+    transform:scale(1.15);
+}

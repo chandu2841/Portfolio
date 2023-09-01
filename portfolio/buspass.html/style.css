@@ -1,0 +1,101 @@
+
+h1{
+   text-align:center;
+   background:rgba(173, 216, 230,1);
+}
+.heading{
+    text-align:center;
+    background:rgba(173, 216, 230,0.7);
+}
+img{
+    display:block;
+    margin:0 auto;
+}
+.form
+{
+    background:rgba(173, 216, 230,0.6);
+    width:40%;
+    display:block;
+    margin:auto;
+    border-color: lightblue;
+    font-size: larger;
+    padding-left: 6cm;
+}
+.anchor:hover
+{
+    color:green;
+}
+.heading:hover{
+    color:rgb(189, 63, 181);
+}
+h1:hover{
+    color:rgb(189, 63, 181);
+}
+.input
+{
+    display:block;
+    margin:0 auto;
+}
+.col
+{
+    background:rgba(173, 216, 230,0.6);
+}
+#submit
+{
+    background:rgb(101, 164, 253);
+    color:white;
+    border:none;
+    border-radius:5px;
+}
+#submit:hover{
+
+    background:rgb(88, 156, 252);
+    align-items:center;
+    transform:scale(1.1);
+    transition:0.3s ease-in-out;
+}
+.band
+{
+    width:70%;
+    display: block;
+    margin:0 auto;
+}
+h2:hover{
+    color:rgb(236, 99, 188)
+}
+.form1
+{
+    background:rgba(173, 216, 230,0.6);
+    width:40%;
+    display:block;
+    margin:auto;
+    padding-left:6cm;
+    font-size: larger;
+}
+.input2
+{
+    display:block;
+    margin:0 auto;
+}
+.anchor
+{
+    text-align:center;
+}
+#submit
+{   padding: 5px 10px;
+    font-weight:700;
+
+}
+.main
+{
+    padding-left:1.5cm;
+}
+.img-r:hover
+{
+    transform:scale(1.1);
+    transition:0.3s ease-in-out;
+}
+.img-r
+{
+    margin:20px auto;
+}
